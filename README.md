@@ -1,6 +1,3 @@
-# Nodejs-UserManagement-Express-Hbs-MySQL
-
-
 # Node.js User Management System - Express, Express-Handlebars, HBS, MySQL
 
 This was created as part of YouTube Video. Links below
@@ -29,9 +26,9 @@ $ npm start
 
 ### YouTube Video & Article
 
-[Node.js News Website](https://youtu.be/EkQc-8uzxIA)
+[YouTube Video](https://youtu.be/1aXZQcG2Y6I)
 
-[Read Article](https://raddy.co.uk/blog/build-news-website-with-node-js-express-ejs-wp-rest-api/)
+[Read Article](https://raddy.co.uk/blog/simple-user-management-system-nodejs-express-mysql-handlebards/)
 
 ### YouTube Channel - RaddyTheBrand
 
