@@ -82,7 +82,7 @@ exports.update = (req, res) => {
       // User the connection
       connection.query('SELECT * FROM user WHERE id = ?', [req.params.id], (err, rows) => {
         // When done with the connection, release it
-        connection.release();
+        
         if (!err) {
           res.render('edit-user', { rows, alert: `${first_name} has been updated.` });
         } else {
